@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Socket Adapter</string>
+    <string name="app_title">SOCKET ADAPTERS</string>
+    <string name="label">LABEL</string>
+    <string name="serial_no">SERIAL No.</string>
+    <string name="tamper_resisant">TAMPER RESISANT</string>
+    <string name="image_button_tamper_resistant">image button tamper resistant</string>
+    <string name="image_button_add_socket">image button add socket</string>
+    <string name="appliance">APPLIANCE</string>
+    <string name="name">Name</string>
+    <string name="lock">LOCK</string>
+    <string name="image_view_green_or_red_ball">Image view green or red ball</string>
+    <string name="timeout">TIMEOUT</string>
+    <string name="thirty">30</string>
+    <string name="button_add_tag">Button Add TAG</string>
+</resources>
